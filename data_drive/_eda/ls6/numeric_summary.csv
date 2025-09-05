@@ -1,0 +1,2 @@
+,count,mean,std,min,25%,50%,75%,max,skew,kurtosis,outliers_count,outliers_pct,low_fence,high_fence,iqr
+vlx,15.0,349.93333333333334,61.42994461366619,229.0,372.0,378.0,381.0,391.0,-1.6463219924863333,0.8641363508472333,3,20.0,358.5,394.5,9.0

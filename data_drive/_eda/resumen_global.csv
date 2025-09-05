@@ -1,0 +1,7 @@
+name,shape,memory_human,n_numeric,n_categorical,n_datetime,corr_strong_pairs,report_path
+ls1,"{'rows': 1058, 'cols': 4}",167.51 KB,1,2,1,[],D:\ls_feed\data_drive\_eda\ls1\report.md
+ls2,"{'rows': 902, 'cols': 4}",142.83 KB,1,2,1,[],D:\ls_feed\data_drive\_eda\ls2\report.md
+ls3,"{'rows': 1056, 'cols': 4}",167.19 KB,1,2,1,[],D:\ls_feed\data_drive\_eda\ls3\report.md
+ls4,"{'rows': 1056, 'cols': 4}",167.19 KB,1,2,1,[],D:\ls_feed\data_drive\_eda\ls4\report.md
+ls5,"{'rows': 1058, 'cols': 4}",167.51 KB,1,2,1,[],D:\ls_feed\data_drive\_eda\ls5\report.md
+ls6,"{'rows': 15, 'cols': 4}",2.51 KB,1,2,1,[],D:\ls_feed\data_drive\_eda\ls6\report.md

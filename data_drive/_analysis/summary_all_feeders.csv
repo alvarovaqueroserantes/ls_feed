@@ -1,0 +1,7 @@
+name,mac,sampling_s_median,coverage_h,n_points,n_occ_events,n_refill_events,occ_total_h,plots_overview,path_daily,path_qc
+ls1,40:22:D8:F1:E3:70,1802.0,527.331,1058,0,2,0.0,D:\ls_feed\data_drive\_analysis\ls1\overview_vlx.png,D:\ls_feed\data_drive\_analysis\ls1\daily_summary.csv,D:\ls_feed\data_drive\_analysis\ls1\qc.json
+ls2,40:22:D8:F1:E2:CC,1802.0,527.324,902,0,1,0.0,D:\ls_feed\data_drive\_analysis\ls2\overview_vlx.png,D:\ls_feed\data_drive\_analysis\ls2\daily_summary.csv,D:\ls_feed\data_drive\_analysis\ls2\qc.json
+ls3,40:22:D8:F1:E3:80,1802.0,526.952,1056,0,3,0.0,D:\ls_feed\data_drive\_analysis\ls3\overview_vlx.png,D:\ls_feed\data_drive\_analysis\ls3\daily_summary.csv,D:\ls_feed\data_drive\_analysis\ls3\qc.json
+ls4,B8:D6:1A:60:95:30,1.0,1272.051,144,0,0,0.0,D:\ls_feed\data_drive\_analysis\ls4\overview_vlx.png,D:\ls_feed\data_drive\_analysis\ls4\daily_summary.csv,D:\ls_feed\data_drive\_analysis\ls4\qc.json
+ls5,B8:D6:1A:60:94:1C,1802.0,527.784,1058,0,3,0.0,D:\ls_feed\data_drive\_analysis\ls5\overview_vlx.png,D:\ls_feed\data_drive\_analysis\ls5\daily_summary.csv,D:\ls_feed\data_drive\_analysis\ls5\qc.json
+ls6,D8:13:2A:D2:36:B4,723.5,528.014,15,0,0,0.0,D:\ls_feed\data_drive\_analysis\ls6\overview_vlx.png,D:\ls_feed\data_drive\_analysis\ls6\daily_summary.csv,D:\ls_feed\data_drive\_analysis\ls6\qc.json

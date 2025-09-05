@@ -1,0 +1,14 @@
+{
+  "n_points": 1056,
+  "time_start": "2025-07-15 12:37:08+02:00",
+  "time_end": "2025-08-06 11:34:15+02:00",
+  "coverage_hours": 526.952,
+  "sampling_seconds_median": 1802.0,
+  "duplicates_by_time": 0,
+  "num_gaps_gt_threshold": 1055,
+  "pct_time_missing_est": 100.0,
+  "flat_values_long_count": 1056,
+  "vlx_mm_min": 46.0,
+  "vlx_mm_max": 604.0,
+  "otsu_threshold_mm": 143.9453125
+}

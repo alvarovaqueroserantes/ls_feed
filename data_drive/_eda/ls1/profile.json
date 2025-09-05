@@ -1,0 +1,37 @@
+{
+  "shape": {
+    "rows": 1058,
+    "cols": 4
+  },
+  "memory": {
+    "bytes": 171528,
+    "human_readable": "167.51 KB"
+  },
+  "dtypes": {
+    "mac": "string",
+    "time": "datetime64[ns]",
+    "vlx": "Float64",
+    "source_file": "string"
+  },
+  "nulls": {
+    "mac": 0,
+    "time": 0,
+    "vlx": 0,
+    "source_file": 0
+  },
+  "nulls_pct": {
+    "mac": 0.0,
+    "time": 0.0,
+    "vlx": 0.0,
+    "source_file": 0.0
+  },
+  "uniques": {
+    "mac": 1,
+    "time": 1058,
+    "vlx": 265,
+    "source_file": 8
+  },
+  "zeros_pct_numeric": {
+    "vlx": 0.0
+  }
+}

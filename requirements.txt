@@ -1,0 +1,8 @@
+streamlit==1.37.1
+streamlit-echarts
+numpy==1.26.4
+pandas==2.2.2
+pyarrow
+scipy==1.11.4
+statsmodels==0.14.1
+matplotlib==3.9.2
